@@ -6,6 +6,8 @@
 
 
 ## App Info
+The initial version
+Work in progress
 
 ### Author
 
