@@ -38,7 +38,7 @@ npm run build
 ### Author
 
 Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+[Emeka Augustine](http://www.jambwaecnecouni.com)
 
 ### Version
 
