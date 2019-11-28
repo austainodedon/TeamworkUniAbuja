@@ -38,11 +38,11 @@ npm run build
 ### Author
 
 Brad Traversy
-[Emeka Augustine](http://www.jambwaecnecouni.com)
+[Emeka Augustine]
 
 ### Version
 
-2.0.0
+1.0.0
 
 ### License
 
