@@ -37,7 +37,6 @@ npm run build
 
 ### Author
 
-Brad Traversy
 [Emeka Augustine]
 
 ### Version
