@@ -2,7 +2,7 @@
 
 > Social network for Students with interest in software development
 
- This is a small social network app that includes authentication, profiles and forum posts for students of University of Abuja.
+ This is a small social network app for students in Universityof Abuja who have interest in programming to bond well it includes authentication, profiles and forum posts for students.
 
 
 ## App Info
